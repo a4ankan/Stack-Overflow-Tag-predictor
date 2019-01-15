@@ -26,7 +26,7 @@ All of the data is in 2 files: Train and Test.<br />
 </pre>
 The questions are randomized and contains a mix of verbose text sites as well as sites related to math and programming. The number of questions from each site may vary, and no filtering has been performed on the questions (such as closed questions).<br />
 <br />
-__Example Data Point__
+<h2>Example Data Point</h2>
 
 <pre>
 <b>Title</b>:  Implementing Boundary Value Analysis of Software Testing in a C++ program?
